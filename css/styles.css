@@ -1,0 +1,13 @@
+.jumbotron{
+  font-family: monospace;
+  text-align: center;
+}
+
+.row{
+  text-align: center;
+  height: 250px;
+}
+
+.hidden{
+  display: none;
+}
